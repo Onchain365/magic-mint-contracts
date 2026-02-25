@@ -26,6 +26,7 @@ This repository contains the verified smart contracts that power every token cre
 | Contract | Network | Address |
 |---|---|---|
 | **TokenFactory** | BSC Mainnet | [`0xCCb8F444B2e3a0dFD1F5f91AAED75c114F6B8514`](https://bscscan.com/address/0xCCb8F444B2e3a0dFD1F5f91AAED75c114F6B8514#code) |
+| **MINT Token** | BSC Mainnet | [`0x8Ce14851ec7af065aFC078bb74e18F349b91c3FF`](https://bscscan.com/token/0x8Ce14851ec7af065aFC078bb74e18F349b91c3FF) |
 
 ---
 
@@ -128,7 +129,8 @@ Constructor arguments:
 |---|---|
 | 🌐 **Launch a token** | [magicmint.app](https://magicmint.app) |
 | 🐦 **Follow updates** | [@MagicMintApp on X](https://x.com/MagicMintApp) |
-| 🔍 **Verified contract** | [BscScan](https://bscscan.com/address/0xCCb8F444B2e3a0dFD1F5f91AAED75c114F6B8514#code) |
+| 🔍 **TokenFactory** | [BscScan](https://bscscan.com/address/0xCCb8F444B2e3a0dFD1F5f91AAED75c114F6B8514#code) |
+| 🪙 **MINT Token** | [BscScan](https://bscscan.com/token/0x8Ce14851ec7af065aFC078bb74e18F349b91c3FF) |
 
 ---
 
